@@ -1,0 +1,6 @@
+Challenge group 1B
+deliverables:
+4. Curated feeds
+5. AI Product matching quiz
+6. ‘AI Eco-System Wide Search
+Engine’

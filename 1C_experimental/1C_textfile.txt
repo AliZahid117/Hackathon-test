@@ -1,0 +1,5 @@
+Challenge group 1C
+deliverables:
+7. ‘AI Design-to-make’
+8. ‘AI Make-to-order’
+9.E-commerce suite of tools:

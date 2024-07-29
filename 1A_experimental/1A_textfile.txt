@@ -1,0 +1,7 @@
+Challenge group 1A:
+deliverables:
+1.Login, signup, landing pages,
+home page, how it works pages
+2.Design Room SaaS Interface
+Screens
+3.AI Photo Product Match
